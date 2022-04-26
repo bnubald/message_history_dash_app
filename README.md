@@ -22,20 +22,20 @@ python index.py
 ## Screenshots
 
 <h1 align="center">
-    <img src="/images/app_1.png" width="500">
+    <img src="/images/app_1.png" width="800">
 </h1><br>
 <h1 align="center">
-    <img src="/images/app_2.png" width="500">
+    <img src="/images/app_2.png" width="800">
 </h1><br>
 <h1 align="center">
-    <img src="/images/app_3.png" width="500">
+    <img src="/images/app_3.png" width="800">
 </h1><br>
 <h1 align="center">
-    <img src="/images/app_4.png" width="500">
+    <img src="/images/app_4.png" width="800">
 </h1><br>
 <h1 align="center">
-    <img src="/images/app_5.png" width="500">
+    <img src="/images/app_5.png" width="800">
 </h1><br>
 <h1 align="center">
-    <img src="/images/app_6.png" width="500">
+    <img src="/images/app_6.png" width="800">
 </h1><br>
